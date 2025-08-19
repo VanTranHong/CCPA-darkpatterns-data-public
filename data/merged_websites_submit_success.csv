@@ -1,0 +1,345 @@
+Index,url,Opt-out method,Name,Email,address,State,phone num,Privacy maze,Separate submissions,CAPCHA test,Asymmetry,Lengthy & confusing,Difficult to locate,Confusing choices,Cookie control misdirection,Unclear request receipt,Identify confirmation,Verified email message,Other actions
+4,https://www.safeway.com/,Opt-out form,Y,Y,,Y,Y,0,0,0,0,0,0,0,0,0,1,1,0
+7,https://www.eater.com/,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+16,https://www.bonappetit.com/,"Browser opt-out
+& Opt-out form",,Y,,,,0,0,0,0,0,0,0,0,0,1,0,0
+17,https://www.grubhub.com/,Opt-out form,,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+19,https://www.seamless.com/,Opt-out form,,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+22,https://www.doordash.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+24,https://www.trycaviar.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+31,https://www.berries.com/,Opt-out form,Y,Y,Y,Y,Y,1,0,0,0,0,0,0,0,0,0,0,0
+32,https://www.harryanddavid.com/,Opt-out form,Y,Y,Y,Y,Y,1,0,0,0,0,0,0,0,0,0,0,0
+34,https://www.albertsons.com/,Opt-out form,Y,Y,,Y,Y,0,0,0,0,0,0,0,0,0,1,1,0
+36,https://www.starbucks.com/,Opt-out form,,Y,,,,0,0,0,0,0,0,0,0,1,0,0,0
+38,https://www.pizzahut.com/,Opt-out form,Y,Y,,,,0,0,1,0,0,0,0,0,0,0,1,0
+39,https://www.mcdonalds.com/us/en-us.html,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,1,0,0
+40,https://order.subway.com/en-US,Opt-out form,Y,Y,,Y,,0,0,0,0,0,0,0,0,0,1,0,0
+41,https://www.olivegarden.com/home,Opt-out form,Y,Y,,Y,,0,0,0,0,0,0,0,0,0,1,1,1
+42,https://www.panerabread.com/en-us/home.html,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+43,https://www.jimmyjohns.com/,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,1,0,0
+44,https://www.tacobell.com/,Opt-out form,Y,Y,,,Y,0,0,0,0,0,0,0,0,0,0,0,0
+53,https://www.healthline.com/,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+56,https://www.nutrisystem.com/,Opt-out form,Y,Y,Y,Y,,0,0,0,0,0,0,0,0,0,0,1,0
+62,https://www.healthgrades.com/,Opt-out form,Y,Y,Y,Y,,0,0,0,0,0,0,0,0,0,0,0,0
+64,https://www.questdiagnostics.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+65,https://www.zocdoc.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+66,https://www.webmd.com/,Browser opt-out,,,,,,0,0,0,1,0,0,0,0,0,0,0,0
+69,https://www.medicinenet.com/,Browser opt-out,,,,,,0,0,0,1,0,0,0,0,0,0,0,0
+74,https://www.everydayhealth.com/,Opt-out form,,Y,,,,1,0,0,0,0,0,0,0,0,0,1,0
+76,https://www.walgreens.com/,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,1,0,0,0,0,0,0,0,1,0,0,0
+80,https://www.riteaid.com/,Opt-out form,Y,Y,Y,Y,Y,1,0,0,0,0,0,0,0,0,1,1,0
+85,https://www.womenshealthmag.com/,Opt-out form,Y,Y,Y,Y,,1,0,0,0,0,0,0,0,0,1,0,0
+98,https://www.1stdibs.com/,Opt-out form,Y,Y,Y,Y,Y,0,0,0,0,0,0,0,0,1,0,0,0
+99,https://society6.com/,Browser opt-out,,,,,,0,0,0,1,0,0,0,0,0,0,0,0
+102,https://www.artsy.net/,Opt-out form,,,,,,0,0,0,0,0,0,0,0,1,0,0,0
+104,https://www.saatchiart.com/,Browser opt-out,,,,,,0,0,0,1,0,0,0,0,0,0,0,0
+106,https://www.wayfair.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+107,https://www.potterybarn.com/,Opt-out form,Y,Y,,,,0,0,0,0,1,1,0,0,1,0,0,0
+109,https://www.pier1.com/,Browser opt-out,,,,,,0,0,0,0,0,1,0,0,0,0,0,0
+111,https://www.worldmarket.com/,"Browser opt-out
+& Opt-out form",Y,Y,,,Y,0,0,0,0,0,1,0,0,1,0,0,0
+112,https://www.ashleyfurniture.com/,Opt-out form,Y,Y,Y,Y,Y,0,0,0,0,0,0,0,0,1,0,0,0
+113,https://www.sleepnumber.com/,Opt-out form,Y,Y,,Y,,0,0,1,0,0,0,0,0,1,1,1,0
+118,https://www.gardeners.com/,Opt-out form,Y,Y,,Y,,0,0,0,0,1,0,0,0,1,0,0,0
+121,https://www.apartmenttherapy.com/,Browser opt-out,,,,,,0,0,0,1,0,0,1,0,0,0,0,0
+123,https://www.marthastewart.com/,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,0,0,0,0,0,0,0,0,0,0,1,0
+126,https://www.curbed.com/,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+131,https://www.joann.com/,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,1,0,0
+135,https://www.officedepot.com/,Opt-out form,Y,Y,Y,,Y,0,0,1,0,0,0,0,0,0,1,0,0
+136,https://www.staples.com/,Opt-out form,Y,Y,Y,Y,Y,1,0,0,0,0,0,0,0,0,1,0,0
+137,https://www.vistaprint.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+142,https://www.dailywire.com/,Browser opt-out,,,,,,0,0,0,1,0,0,0,0,0,0,0,0
+146,https://www.wsj.com/,"Browser opt-out
+& Opt-out form",Y,Y,,,,1,0,0,0,0,0,0,0,0,1,1,0
+149,https://nypost.com/,Browser opt-out,,,,,,0,0,0,0,1,0,0,0,0,0,0,0
+152,https://theweek.com/,Opt-out form,Y,Y,,,,0,0,0,0,1,1,0,0,1,1,0,0
+158,https://www.huffpost.com/,Browser opt-out,,,,,,0,0,0,1,0,0,1,0,0,0,0,0
+159,https://www.nytimes.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+160,https://www.politico.com/,Browser opt-out,,,,,,0,0,0,0,0,0,1,0,0,0,0,0
+163,https://abcnews.go.com/,Browser opt-out,,,,,,0,0,0,0,0,0,1,0,0,0,0,0
+165,https://www.washingtonpost.com/,Browser opt-out,,,,,,0,0,0,0,1,0,0,0,0,0,0,0
+166,https://time.com/,"Browser opt-out
+& Opt-out form",Y,Y,Y,Y,,0,0,0,0,0,0,0,0,0,0,0,0
+167,https://www.theatlantic.com/,Opt-out form,,Y,Y,Y,,0,0,0,0,0,0,0,0,1,0,0,0
+169,https://www.nbcnews.com/,"Browser opt-out
+& Opt-out form",Y,Y,,,,1,1,0,0,0,0,0,0,0,0,0,0
+171,https://www.newyorker.com/,"Browser opt-out
+& Opt-out form",,Y,,Y,,1,0,0,0,1,0,0,0,1,1,0,0
+172,https://www.thedailybeast.com/,Opt-out form,Y,Y,,,,0,0,0,1,1,0,0,0,0,0,0,0
+182,https://www.usatoday.com/,Browser opt-out,,,,,,0,0,0,0,0,0,1,0,0,0,0,0
+187,https://www.gofundme.com/,"Browser opt-out
+& Opt-out form",Y,Y,,,,0,0,0,0,0,1,0,0,0,1,0,0
+196,https://www.chewy.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+198,https://www.hillspet.com/,Opt-out form,,Y,,,,0,0,0,0,0,0,0,0,1,0,0,0
+204,https://www.petsmart.com/,Opt-out form,Y,Y,,Y,Y,0,0,0,0,0,1,0,0,0,1,0,0
+206,https://www.petco.com/shop/en/petcostore,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+219,https://www.amazon.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+223,https://www.overstock.com/,Opt-out form,Y,Y,,,,0,0,0,0,0,1,0,0,0,1,0,0
+224,https://www.scribd.com/,Opt-out form,,Y,,Y,,0,0,0,0,0,0,0,0,0,0,0,0
+225,https://www.barnesandnoble.com/,Opt-out form,Y,Y,Y,,Y,0,0,1,0,0,0,0,0,0,1,0,0
+232,https://www.audible.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+235,https://www.scholastic.com/home,Opt-out form,Y,Y,,,,1,0,0,0,0,0,0,0,0,0,0,1
+249,https://www.bookdepository.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+261,https://www.cengage.com/,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,1,0,0,0
+269,https://www.yellowpages.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+270,https://www.whitepages.com/,Opt-out form,,Y,,Y,,0,0,0,0,0,1,0,0,1,0,0,0
+274,https://www.angi.com/,Browser opt-out,,,,,,0,0,0,1,0,0,1,0,0,0,0,0
+275,https://www.homeadvisor.com/,Browser opt-out,,,,,,0,0,0,1,0,0,1,0,0,0,0,0
+277,https://www.thumbtack.com/,"Browser opt-out
+& Opt-out form",,Y,,,,0,0,0,0,1,0,0,0,0,1,0,0
+293,https://elclasificado.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+294,https://www.groupon.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+295,https://slickdeals.net/,Opt-out form,,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+296,https://www.retailmenot.com/,Opt-out form,,Y,,Y,,0,0,0,0,0,0,0,0,0,0,1,0
+307,https://www.goodrx.com/,"Browser opt-out
+& Opt-out form",Y,Y,,,Y,0,0,0,0,0,0,0,0,0,0,0,0
+310,https://www.livingsocial.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+321,https://www.shop.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+344,https://www.ebay.com/,Browser opt-out,,,,,,0,0,0,0,1,0,0,0,0,0,0,0
+346,https://www.walmart.com/,Opt-out form,Y,Y,Y,Y,Y,1,0,0,0,0,0,0,0,1,1,0,0
+352,https://www.target.com/,Opt-out form,Y,Y,Y,Y,Y,0,0,0,0,0,0,0,0,1,0,0,0
+353,https://www.homedepot.com/,Opt-out form,Y,Y,Y,Y,,0,0,0,0,1,0,0,0,1,0,0,0
+357,https://www.macys.com/,Opt-out form,Y,Y,,Y,,0,0,0,0,1,0,0,0,1,0,0,0
+359,https://www.lowes.com/,Opt-out form,Y,Y,Y,Y,Y,0,1,0,0,1,0,0,0,1,0,0,0
+362,https://www.microsoft.com/en-us/store/b/sale?rtc=1,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+364,https://www.kohls.com/,"Browser opt-out
+& Opt-out form",Y,Y,,,Y,1,0,0,1,0,0,0,0,0,1,1,0
+365,https://www.jcpenney.com/,Opt-out form,Y,Y,Y,Y,Y,0,0,0,0,0,0,0,0,0,1,1,1
+366,https://www.sears.com/,Browser opt-out,,,,,,0,0,0,1,1,0,0,1,0,0,0,0
+367,https://www.dickssportinggoods.com/,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,0,0,0,0,1,1,0,0,0,1,1,0
+368,https://www.cabelas.com/shop/en#,Opt-out form,Y,Y,Y,Y,Y,0,0,0,0,0,0,0,0,0,1,1,0
+372,https://www.bloomingdales.com/,Opt-out form,Y,Y,,,,0,0,0,0,1,0,0,0,1,1,0,0
+373,https://www.neimanmarcus.com/,Opt-out form,Y,Y,Y,Y,Y,0,0,0,0,0,0,0,0,1,0,0,0
+374,https://www.hsn.com/,Opt-out form,Y,Y,Y,Y,Y,1,0,0,0,0,0,0,0,0,0,0,0
+375,https://www.biglots.com/,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,1,0,0
+377,https://www.belk.com/,Opt-out form,Y,Y,Y,Y,Y,0,0,0,0,0,0,0,0,0,0,0,0
+378,https://www.burlington.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+400,https://www.nature.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+404,https://www.cell.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+426,https://www.nature.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+445,https://www.autodesk.com/,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+478,https://www.nba.com/,Opt-out form,,Y,,,,1,0,0,0,1,1,0,0,0,0,1,0
+481,https://clutchpoints.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+485,https://www.nfl.com/,Opt-out form,Y,Y,,Y,,0,1,0,0,0,0,0,0,0,0,1,0
+488,https://www.patriots.com/,Opt-out form,Y,Y,,Y,,0,1,0,0,0,0,0,0,0,0,1,0
+489,https://www.dallascowboys.com/,Opt-out form,Y,Y,,Y,,0,1,0,0,0,0,0,0,0,0,1,0
+491,https://www.strava.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+493,https://www.active.com/,Opt-out form,Y,Y,,,,0,0,1,0,0,0,0,0,1,1,1,0
+499,https://www.espn.com/,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,0,0,0,0,0,1,0,0,1,0,0,0
+502,https://www.si.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+503,https://www.mlb.com/,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,1,0,0,1,0,0,0,0,0,0,0,0
+507,https://www.sbnation.com/,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+508,https://www.cloudflare.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+524,https://www.yahoo.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+525,https://www.bing.com/?toWww=1&redig=8625D14D06664A41A50493BB87348445,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+530,https://www.squarespace.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+537,https://www.southwest.com/,Opt-out form,Y,Y,,Y,,0,0,0,0,1,0,0,0,1,0,0,0
+542,https://www.jetblue.com/,Opt-out form,Y,Y,Y,Y,,1,0,0,0,0,0,0,0,0,1,0,0
+544,https://www.spirit.com/,Opt-out form,Y,Y,Y,Y,Y,0,0,0,0,0,0,0,0,0,1,1,0
+552,https://www.kayak.com/,Browser opt-out,,,,,,0,0,0,0,0,0,1,0,0,0,0,0
+554,https://www.lonelyplanet.com/,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,1,0,0,0
+555,https://www.skyscanner.com/?previousCultureSource=GEO_LOCATION&redirectedFrom=www.skyscanner.net,Browser opt-out,,,,,,0,0,0,0,1,0,0,1,0,0,0,0
+557,https://www.cheapoair.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+559,https://www.travelzoo.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+569,https://www.airbnb.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+570,https://www.marriott.com/default.mi,Opt-out form,,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+571,https://www.hilton.com/en/,Opt-out form,Y,Y,,,Y,1,0,0,0,0,0,0,0,1,0,0,0
+572,https://www.ihg.com/hotels/us/en/reservation,Opt-out form,Y,Y,Y,Y,,0,0,0,0,0,0,0,0,0,0,0,0
+573,https://www.vrbo.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+578,https://www.trivago.com/,Browser opt-out,,,,,,0,0,0,0,0,0,1,0,0,0,0,0
+579,https://www.thrillist.com/,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+582,https://www.travelandleisure.com/,"Browser opt-out
+& Opt-out form",Y,Y,,,,0,0,0,0,0,0,1,0,0,0,1,0
+583,https://www.travelchannel.com/,"Browser opt-out
+& Opt-out form",,Y,,Y,,0,0,0,0,0,1,0,0,0,0,0,0
+586,https://www.cntraveler.com/,"Browser opt-out
+& Opt-out form",,Y,,,,0,0,0,0,0,0,0,0,0,1,0,0
+596,https://na.panasonic.com/us/,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,1,0,0
+599,https://www.geappliances.com/,"Browser opt-out
+& Opt-out form",Y,Y,Y,Y,Y,0,0,0,0,1,0,0,0,0,1,0,0
+602,https://www.whirlpool.com/,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,0,0,0,0,0,0,0,0,0,0,0,0
+613,https://www.cdw.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+615,https://www.intel.com/content/www/us/en/homepage.html,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+626,https://epson.com/usa,Opt-out form,Y,Y,,,,1,0,0,0,0,0,0,0,0,1,1,0
+628,https://www.avg.com/en-us/homepage#mac,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,0,0,0,0,0,0,0,0,0,1,0,1
+639,https://www.malwarebytes.com/,Browser opt-out,,,,,,0,0,0,1,0,0,1,0,0,0,0,0
+646,https://www.microsoft.com/en-us/?ql=3,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+647,https://www.adobe.com/,"Browser opt-out
+& Opt-out form",Y,Y,,,,0,0,0,0,1,1,0,1,1,0,0,0
+651,https://en.softonic.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+670,https://www.digitaltrends.com/,"Browser opt-out
+& Opt-out form",Y,Y,,,,0,0,0,0,0,0,0,0,1,1,0,0
+672,https://www.wired.com/,"Browser opt-out
+& Opt-out form",Y,Y,,,,0,0,0,0,0,0,0,0,1,1,0,0
+673,https://www.tomsguide.com/,"Browser opt-out
+& Opt-out form",Y,Y,,,,0,0,0,0,0,0,0,0,1,1,0,0
+675,https://www.consumerreports.org/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+683,https://www.nordstrom.com/,Opt-out form,Y,Y,Y,Y,Y,1,0,0,0,1,1,0,0,1,1,0,0
+684,https://www.nike.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+687,https://www2.hm.com/en_us/index.html,"Browser opt-out
+& Opt-out form",,,,,,0,0,0,1,0,0,0,0,1,0,0,0
+689,https://www.footlocker.com/,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+690,https://www.forever21.com/,"Browser opt-out
+& Opt-out form",Y,Y,Y,Y,,1,0,0,0,0,1,0,0,0,0,1,0
+691,https://www.gap.com/,"Browser opt-out
+& Opt-out form",Y,Y,,,,1,0,0,0,0,1,0,0,0,0,0,0
+692,https://www.zara.com/us/en/woman-new-in-l1180.html?v1=2111785&page=8,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+698,https://www.flightclub.com/,Browser opt-out,,,,,,0,0,0,1,0,0,1,0,0,0,0,0
+699,https://www.llbean.com/,Opt-out form,Y,Y,Y,Y,,0,0,0,0,0,0,0,0,0,0,0,0
+700,https://www.ae.com/us/en,Opt-out form,Y,Y,Y,Y,,0,0,0,0,0,0,0,0,0,0,0,0
+703,https://us.pandora.net/,Opt-out form,Y,Y,,Y,,0,0,0,0,0,0,0,0,0,0,1,0
+704,https://www.ralphlauren.com/,Browser opt-out,,,,,,0,0,0,1,0,1,1,0,0,0,0,0
+706,https://www.zales.com/,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,0,0,0,0,0,0,0,0,0,1,0,0
+707,https://www.thenorthface.com/en-us?_sr=1,Opt-out form,Y,Y,Y,Y,,0,1,1,0,1,0,0,0,0,0,0,0
+708,https://www.kay.com/,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,1,0,0,0,1,0,0,0,0,1,0,0
+709,https://www.fossil.com/en-us/,Opt-out form,,Y,,Y,,0,0,0,0,0,0,0,0,0,0,0,0
+711,https://www.helzberg.com/,Opt-out form,Y,Y,,Y,,0,0,0,0,0,0,0,0,1,0,0,0
+713,https://www.swarovski.com/en-US/,Opt-out form,Y,Y,Y,Y,,0,0,0,0,1,0,0,0,1,0,0,0
+715,https://www.katespade.com/,Opt-out form,Y,Y,Y,Y,,0,0,0,0,0,0,0,0,1,0,0,0
+717,https://www.coach.com/,Opt-out form,Y,Y,Y,Y,,0,0,0,0,0,0,0,0,1,0,0,0
+719,https://www.tiffany.com/,"Browser opt-out
+& Opt-out form",,Y,,,,1,0,0,0,1,1,0,0,1,0,0,0
+721,https://www.victoriassecret.com/us/,Opt-out form,Y,Y,Y,Y,,0,0,0,0,0,0,0,0,1,0,0,0
+726,https://www.soma.com/store/,Browser opt-out,,,,,,0,0,0,0,0,0,1,0,0,0,0,0
+738,https://www.josbank.com/?utm_source=&account_id=582&brand=JAB&source=google&campaign=647557330&campaign_type=Brand&adgroup_id=132061103017&keyword=kwd-501326182752&ad_id=619412024628&match_type=e&channel=SEM&utm_id=go_cmp-647557330_adg-132061103017_ad-619412024628_kwd-501326182752_dev-c_ext-_prd-_mca-_sig-CjwKCAjwh4ObBhAzEiwAHzZYU9Kl1sBYAYwoN_GfPdktdbIO2sP4fIx4-VWMlGG28eeIY8WhZ9zBYhoCcTMQAvD_BwE&gclid=CjwKCAjwh4ObBhAzEiwAHzZYU9Kl1sBYAYwoN_GfPdktdbIO2sP4fIx4-VWMlGG28eeIY8WhZ9zBYhoCcTMQAvD_BwE,"Browser opt-out
+& Opt-out form",Y,Y,,,,1,0,0,0,0,1,0,0,0,0,0,1
+739,https://www.menswearhouse.com/,"Browser opt-out
+& Opt-out form",Y,Y,,,,1,0,0,1,1,1,0,0,0,0,0,1
+741,https://www.shopbop.com/men?wasEastdane=true&,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+742,https://www.dxl.com/,Opt-out form,Y,Y,Y,Y,,1,0,0,0,0,0,0,0,0,1,0,0
+755,https://www.haggar.com/,"Browser opt-out
+& Opt-out form",,Y,,,,0,0,1,0,0,0,0,0,1,0,0,0
+759,https://www.dsw.com/,Opt-out form,Y,Y,Y,Y,Y,1,0,0,0,0,0,0,0,0,1,0,0
+760,https://www.prana.com/,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,1,0,0,0,0,0,0,0,0,1,1,0
+761,https://www.finishline.com/,Opt-out form,Y,Y,Y,Y,,0,1,1,0,0,0,0,0,0,1,1,0
+763,https://www.vans.com/en-us,Opt-out form,Y,Y,Y,Y,,0,1,1,0,1,0,0,0,0,0,0,0
+766,https://www.colehaan.com/,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+768,https://www.ray-ban.com/usa,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+769,https://www.sunglasshut.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+771,https://www.oakley.com/en-us,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+772,https://www.eyebuydirect.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+773,https://www.prada.com/us/en.html,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+791,https://www.edmunds.com/,Opt-out form,Y,Y,Y,Y,Y,0,0,0,0,0,0,0,0,0,0,0,0
+792,https://www.cargurus.com/,Browser opt-out,,,,,,0,0,0,1,0,0,1,0,0,0,0,0
+794,https://www.caranddriver.com/,Opt-out form,Y,Y,Y,Y,,0,0,0,0,0,0,0,0,0,1,0,0
+796,https://www.carmax.com/,"Browser opt-out
+& Opt-out form",,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+798,https://www.truecar.com/,Opt-out form,Y,Y,Y,Y,Y,0,0,0,0,0,0,0,0,1,1,0,0
+799,https://www.carfax.com/,Browser opt-out,,,,,,0,0,0,0,0,0,1,0,0,0,0,0
+804,https://www.autobytel.com/,Opt-out form,Y,Y,Y,Y,Y,0,0,1,0,0,0,0,0,0,0,1,0
+808,https://www.ford.com/,"Browser opt-out
+& Opt-out form",Y,Y,Y,Y,Y,1,0,0,0,0,1,0,0,0,1,1,0
+809,http://www.honda.com/,Opt-out form,Y,Y,Y,Y,Y,1,0,0,0,1,0,0,0,0,0,0,0
+810,https://www.chevrolet.com/,Opt-out form,Y,Y,Y,Y,Y,1,1,0,0,0,0,0,0,1,1,0,0
+811,https://www.toyota.com/,Opt-out form,Y,Y,Y,Y,Y,1,0,0,0,0,0,0,0,0,0,1,0
+812,https://www.nissanusa.com/,Opt-out form,Y,Y,Y,Y,,1,0,0,0,0,0,0,0,0,1,1,0
+813,https://www.mbusa.com/en/home,Opt-out form,Y,Y,,Y,,1,0,0,0,0,0,0,0,0,1,1,0
+814,https://www.jeep.com/,Opt-out form,Y,Y,Y,Y,Y,1,0,0,0,1,0,0,0,0,1,0,0
+816,https://www.bmwusa.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+817,https://www.gm.com/,Opt-out form,Y,Y,Y,Y,,1,1,0,0,0,0,0,0,1,1,1,0
+818,https://www.hyundaiusa.com/us/en,Opt-out form,Y,Y,Y,Y,Y,1,1,0,0,1,0,0,0,0,1,0,0
+819,https://www.lexus.com/,Opt-out form,Y,Y,Y,Y,Y,1,0,0,0,0,0,0,0,0,0,1,0
+820,https://www.audiusa.com/us/web/en.html,"Browser opt-out
+& Opt-out form",Y,Y,Y,Y,Y,1,0,0,1,1,1,0,0,0,0,0,0
+821,https://www.porsche.com/usa/,Opt-out form,Y,Y,Y,Y,,1,0,0,0,0,0,0,0,1,0,0,0
+823,https://www.subaru.com/index.html,Opt-out form,Y,Y,Y,Y,Y,0,0,0,0,0,0,0,0,0,0,0,0
+824,https://www.vw.com/en.html,"Browser opt-out
+& Opt-out form",Y,Y,Y,Y,Y,1,0,0,1,1,1,0,0,1,0,0,0
+825,https://www.mazdausa.com/,Opt-out form,Y,Y,Y,Y,Y,0,0,0,0,0,0,0,0,0,0,0,0
+837,https://www.westmarine.com/,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,1,0,0,0
+838,https://www.ulta.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+839,https://www.sephora.com/,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,1,0,0,0
+842,https://www.self.com/,"Browser opt-out
+& Opt-out form",,Y,,,,0,0,0,0,0,0,0,0,1,1,0,0
+844,https://www.maccosmetics.com/,"Browser opt-out
+& Opt-out form",Y,Y,,,,1,0,0,0,0,0,0,0,0,1,1,0
+847,https://www.gilt.com/boutique/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+848,https://www.toryburch.com/en-us/,"Browser opt-out
+& Opt-out form",Y,Y,,,,0,0,0,0,0,1,1,0,1,0,0,0
+850,https://www.greatclips.com/,"Browser opt-out
+& Opt-out form",Y,Y,,Y,Y,1,0,0,1,0,0,1,0,0,0,0,0
+855,https://www.ipsy.com/,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,0,1,0,0
+857,https://www.refinery29.com/en-us,"Browser opt-out
+& Opt-out form",Y,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+865,https://www.instyle.com/,"Browser opt-out
+& Opt-out form",Y,Y,,,,0,0,0,0,0,0,0,0,0,0,1,0
+866,https://www.harpersbazaar.com/,Opt-out form,Y,Y,Y,Y,,1,0,0,0,0,0,0,0,0,1,0,0
+869,https://www.seventeen.com/,Opt-out form,Y,Y,Y,Y,,1,0,0,0,0,0,0,0,0,1,0,0
+885,https://www.udemy.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+890,https://www.collegeboard.org/,Opt-out form,Y,Y,Y,Y,,0,0,0,0,0,0,0,0,0,0,0,0
+904,https://www.dice.com/,Opt-out form,Y,Y,,,,0,0,0,0,0,0,0,0,1,0,0,0
+917,https://www.linkedin.com/feed/,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+918,https://www.indeed.com/,Opt-out form,,Y,,,,0,1,0,0,0,0,0,0,0,1,0,0
+919,https://www.glassdoor.com/index.htm,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+921,https://www.monster.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+924,https://www.snagajob.com/,Opt-out form,Y,Y,Y,Y,,0,0,0,0,1,0,0,0,0,0,0,0
+925,https://www.careerbuilder.com/,Opt-out form,Y,Y,,Y,,1,0,0,0,0,0,0,0,0,1,1,0
+932,https://www.ziprecruiter.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+939,https://www.udemy.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+942,https://www.edx.org/,Browser opt-out,,,,,,0,0,0,1,0,0,1,0,0,0,0,0
+949,https://www.brainpop.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+952,https://www.pluralsight.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+957,https://www.imdb.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,1,0,0,0,0
+958,https://www.cnn.com/,"Browser opt-out
+& Opt-out form",,Y,,Y,,0,0,0,0,0,0,0,0,0,0,0,0
+960,https://weather.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+964,https://www.etsy.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+966,https://www.foxnews.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+967,https://vimeo.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+970,https://www.dailymotion.com/us,Browser opt-out,,,,,,0,0,0,0,1,0,0,0,0,0,0,0
+972,https://www.foxsports.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+974,https://www.pandora.com/,Opt-out form,Y,Y,,Y,,1,0,0,0,0,0,0,0,0,1,0,0
+984,https://tunein.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+987,https://www.ticketmaster.com/,Opt-out form,Y,Y,,Y,,0,0,0,0,0,0,0,0,1,0,0,0
+988,https://www.eventbrite.com/,"Browser opt-out
+& Opt-out form",,Y,,,,0,0,0,0,0,0,0,0,0,1,0,0
+989,https://www.amctheatres.com/,Browser opt-out,,,,,,0,0,0,0,1,1,0,0,0,0,0,0
+990,https://www.stubhub.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+991,https://www.cinemark.com/,Opt-out form,,Y,,,,0,0,0,0,0,0,0,0,0,1,0,0
+993,https://www.livenation.com/,Opt-out form,Y,Y,,Y,,0,0,0,0,0,0,0,0,0,1,1,0
+994,https://www.vividseats.com/,Opt-out form,,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+997,https://seatgeek.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+1000,https://www.goldstar.com/,Opt-out form,Y,Y,,Y,,0,0,0,0,0,0,0,0,1,0,0,0
+1005,https://www.shutterstock.com/,Browser opt-out,,,,,,0,0,0,1,1,0,1,0,0,0,0,0
+1016,https://www.businessinsider.com/,"Browser opt-out
+& Opt-out form",Y,Y,,,,1,0,0,0,0,0,0,0,1,0,0,0
+1018,https://www.bloomberg.com/,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,1,0,0,0,0,1,0,0,1,0,0,0
+1019,https://www.reuters.com/,Browser opt-out,,,,,,0,0,0,0,1,0,1,0,0,0,0,0
+1020,https://finance.yahoo.com/?guccounter=1,Browser opt-out,,,,,,0,0,0,0,1,0,0,0,0,0,0,0
+1021,https://www.cnn.com/business,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+1022,https://www.cnbc.com/,"Browser opt-out
+& Opt-out form",Y,Y,,,,1,1,0,0,0,0,0,0,1,0,0,0
+1025,https://www.bizjournals.com/,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,0,0,0,0,0,0,0,0,0,1,1,0
+1026,https://seekingalpha.com/,Opt-out form,,,Y,Y,,0,0,0,0,0,0,0,0,0,0,0,0
+1027,https://fortune.com/,Opt-out form,Y,Y,,Y,,1,0,0,0,0,0,0,0,1,1,0,0
+1030,https://www.ft.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+1031,https://www.fastcompany.com/,Opt-out form,Y,Y,,Y,,0,0,0,0,0,0,0,0,1,0,0,0
+1032,https://www.foxbusiness.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+1043,https://www.usaa.com/,Browser opt-out,,,,,,0,0,0,0,1,0,0,0,0,0,0,0
+1044,https://www.discover.com/,Opt-out form,Y,Y,Y,Y,,0,0,0,0,0,0,0,0,1,0,0,0
+1045,https://www.usbank.com/index.html,Opt-out form,,Y,,,,0,0,0,0,0,0,0,0,0,0,0,0
+1049,https://www.schwab.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+1052,https://www.hrblock.com/,Opt-out form,Y,Y,,Y,,1,0,0,0,0,0,0,0,0,0,0,0
+1054,https://www.forbes.com/?sh=112eecaf2254,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+1059,https://www.libertymutual.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+1060,https://www.fidelity.com/,Browser opt-out,,,,,,0,0,0,0,1,0,0,0,0,0,0,0
+1063,https://www.statefarm.com/,Browser opt-out,,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+1066,https://www.progressive.com/,"Browser opt-out
+& Opt-out form",Y,Y,Y,Y,,1,0,1,0,0,1,0,0,0,1,1,0
+1086,https://www.salliemae.com/,Opt-out form,Y,Y,Y,Y,,0,0,0,0,0,0,0,0,0,0,0,0
+1087,https://www.fastweb.com/,"Browser opt-out
+& Opt-out form",Y,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+1089,https://www.allrecipes.com/,"Browser opt-out
+& Opt-out form",Y,Y,,Y,,0,0,0,0,0,0,0,0,0,0,1,0
